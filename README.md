@@ -63,5 +63,6 @@ The hackathon will be at the same conference venue as the rest of EAGE Annual:
 ## Meet your Facilitators:
 Ashley Russell [Equinor ASA] – Leader for Data Science and Analytics for subsurface in Equinor.  Experience in organizing and facilitating hackathons.  Self taught data scientist, expertise in Python, data visualization, including interactive plotting and dashboarding, statistics, and machine learning. aruss@equinor.com
 <br /> Lukas Moser [Earth Science Analytics] -
+<br /> Jan van de Mortel - 
 <br />Ilaria Meggetto [EAGE] -
 <br />If you need anything from us or have questions please contact us via the email addresses above.
