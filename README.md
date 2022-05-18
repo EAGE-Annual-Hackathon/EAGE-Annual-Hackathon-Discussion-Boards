@@ -32,8 +32,8 @@ The facilitators will provide some ideas to get you thinking - you can find this
 Sunday 5 June:
 <br /> 9:00 - 9:30 CEST - Welcome and coffee
 <br /> 9:30 - 10:30 CEST - Introduction to the theme and the hackathon Plenum Session Online (link will be provided)
-<br /> 9:30 – 10:00 CEST – Project and team discovery time
-<br /> 10:30 - 18:00 CEST -  Hacking all day
+<br /> 10:30 – 11:00 CEST – Project and team discovery time
+<br /> 11:00 - 18:00 CEST -  Hacking all day
  
 Monday 6 June
 <br /> 9:00 - 9:30 CEST - Welcome and coffee
