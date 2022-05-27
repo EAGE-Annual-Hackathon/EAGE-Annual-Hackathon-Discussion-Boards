@@ -50,7 +50,7 @@ Monday 6 June
 Ample amounts of coffee will be provided, but you will be expected to pay for your own meals.  There are plenty of options both inside of the conference center and immediately outside.
 ### Location:
 The hackathon will be at the same conference venue as the rest of EAGE Annual:
-<br />IFEMA
+<br />IFEMA - Room E (proceed to the registration desk, get your badge and follow the signs to the hackathon)
 <br />Feria de Madrid
 <br />Avda. del Partenón 5
 <br />28042 Madrid
@@ -62,7 +62,9 @@ The hackathon will be at the same conference venue as the rest of EAGE Annual:
 
 ## Meet your Facilitators:
 Ashley Russell [Equinor ASA] – Leader for Data Science and Analytics for subsurface in Equinor.  Experience in organizing and facilitating hackathons.  Self taught data scientist, expertise in Python, data visualization, including interactive plotting and dashboarding, statistics, and machine learning. aruss@equinor.com
-<br /> Lukas Moser [Earth Science Analytics] -
+<br /> Lukas Moser [Earth Science Analytics] - Lukas Mosser is Head of Research & Development at Earth Science Analytics.
+Lukas received his P.h.D from Imperial College London, where he worked on the stochastic reconstruction of porous media and geophysical inverse problems using deep learning.  He currently also serves as a member of the EAGE AI committee and SEG special interest group for machine learning.
 <br /> Jan van de Mortel - 
-<br />Ilaria Meggetto [EAGE] -
+<br /> Oleg Ovcharenko - 
+<br />Ilaria Meggetto [EAGE] is our contact at EAGE.
 <br />If you need anything from us or have questions please contact us via the email addresses above.
